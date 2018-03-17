@@ -1,0 +1,12 @@
+.imagerecognize {
+    width: 500px;
+    height: auto;
+}
+.face-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px yellow inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
